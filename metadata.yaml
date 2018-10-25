@@ -1,0 +1,6 @@
+name: test-storage
+summary: test-storage
+description: test-storage
+storage:
+  test:
+    type: block
